@@ -1,6 +1,6 @@
 {
   "name": "responses.js",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Simple Middleware to simplify responses in express with the most common status codes",
   "main": "index.js",
   "scripts": {
@@ -15,10 +15,7 @@
     "name": "Bruno Couto",
     "email": "Bruno.t.couto@icloud.com"
   },
-  "license": {
-    "type": "Apache-2.0",
-    "url": "http://www.apache.org/licenses/LICENSE-2.0"
-  },  
+  "license": "MIT",
   "dependencies": {
     "babel-polyfill": "^6.26.0"
   },
@@ -30,5 +27,12 @@
   "bugs": {
     "url": "https://github.com/BrunoTCouto/Responses.js/issues"
   },
-  "homepage": "https://github.com/BrunoTCouto/Responses.js#readme"
+  "homepage": "https://github.com/BrunoTCouto/Responses.js#readme",
+  "keywords": [
+    "Express",
+    "web",
+    "rest",
+    "responses",
+    "status code"
+  ]
 }
